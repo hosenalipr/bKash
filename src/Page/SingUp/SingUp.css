@@ -1,0 +1,16 @@
+.registration-area {
+    padding: 100px;
+}
+
+.link {
+    text-align: center;
+    margin: 10px;
+}
+
+.link a {
+    text-decoration: none;
+    color: #000;
+    display: inline-block;
+    margin: 15px;
+
+}

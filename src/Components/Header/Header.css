@@ -1,0 +1,32 @@
+.logo-area img {
+    width: 70%;
+}
+
+.navbar {
+    background-color: #E2136E;
+}
+
+.button {
+    background: transparent;
+    color: #000;
+    border: 3px solid #fff;
+    border-radius: 20px;
+    transition: .5s !important;
+    padding: 0 25px !important;
+    width: 120px;
+
+    /* display: inline-block; */
+    padding-top: 5px !important;
+
+}
+
+.button:hover {
+    background: white;
+    color: #E2136E !important;
+
+}
+
+.header-area .nav-link {
+    font-size: 18px;
+    margin-left: 20px;
+}

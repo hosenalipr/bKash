@@ -1,0 +1,22 @@
+.maine-image {
+    margin-top: 60px;
+    background-image: url(https://www.bkash.com/images/static-banner.webp);
+
+
+}
+
+/* .text {
+    padding-left: 100px;
+} */
+
+.text h2 {
+    color: #E2136E;
+}
+
+.text p {
+    color: white;
+}
+
+.maine-image img {
+    margin-top: 49px;
+}

@@ -1,0 +1,32 @@
+.subHeder h1 {
+    margin-top: 60px;
+    margin-bottom: 35px;
+}
+
+.card {
+    transition: 0.5s;
+}
+
+.card:hover {
+    color: #E2136E;
+    cursor: pointer;
+}
+
+.image-area img {
+    width: 100%;
+    padding: 20px;
+}
+
+.image-area h3 {
+    padding: 0 10px;
+}
+
+.image-area p {
+    padding: 10px 25px;
+}
+
+.image-area button {
+    border: none;
+    background-color: white;
+    color: #E2136E;
+}

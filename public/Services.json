@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Mobile Recharge",
+        "description": "Recharge any number and get the best offer",
+        "img": "https://www.bkash.com/uploaded_contents/services/home_images/02-MR_1675164134643.webp",
+        "iconImg": "One Platform for all Financial Solutions"
+    },
+    {
+        "id": 2,
+        "name": "Send Money",
+        "description": "Send money from bKash to any number instantly",
+        "img": "https://www.bkash.com/uploaded_contents/services/home_images/01-send-money_1675164089657.webp"
+    },
+    {
+        "id": 3,
+        "name": "Cash Out",
+        "description": "Withdraw cash anytime from the largest Agent and ATM network",
+        "img": "https://www.bkash.com/uploaded_contents/services/home_images/03-cashout_1675164155438.webp"
+    },
+    {
+        "id": 4,
+        "name": "Payment",
+        "description": "Making Payment is now much easier through the bKash App",
+        "img": "https://www.bkash.com/uploaded_contents/services/home_images/04-payment_1675164341242.webp"
+    }
+]

@@ -1,0 +1,61 @@
+.contact {
+    background: #ffeff6;
+    padding: 40px 0;
+}
+
+.submitbutton {
+    background-color: #E2136E;
+    color: white;
+    border-radius: 5px;
+}
+
+
+.phone {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+}
+
+.phone>img {
+    width: 30px;
+}
+
+.phone>p {
+    margin: 0;
+    padding-left: 10px;
+}
+
+.email {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+}
+
+.email>img {
+    width: 30px;
+}
+
+.email>p {
+    margin: 0;
+    padding-left: 10px;
+}
+
+.address {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+}
+
+.address>img {
+    width: 30px;
+}
+
+.address>p {
+    margin: 0;
+    padding-left: 10px;
+}
+
+.form-area {
+    padding-right: 50px;
+    border-right: 1px solid rgb(216, 203, 203);
+}
